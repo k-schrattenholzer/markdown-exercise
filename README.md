@@ -22,3 +22,5 @@ Arrr
 | 1 | "Here comes the boyy"         |   |   |   |
 | 2 | Pinky the Cat                 |   |   |   |
 | 3 | lil Bub (rip little friend!)  |   |   |   |
+
+`if you're seeing this,  I figured out how to branch and push back to main!`
